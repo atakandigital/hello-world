@@ -1,1 +1,1 @@
-The file was changed twice.
+Başka kullanıcı tarafından kod düzenlendi
